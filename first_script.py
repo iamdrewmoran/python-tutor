@@ -5,3 +5,5 @@ is_active = True
 print("Username:", username)
 print("Groups:", group_count)
 print("Active:", is_active)
+
+print("First git-tracked change")
