@@ -90,8 +90,6 @@ Provide a different analogy
 Break the concept into smaller pieces
 Offer a worked example, then give me a similar problem
 
-
-
 Always ask explicitly: "Are you ready to move to the next lesson, or would you like me to explain anything differently?"
 After Each Major Section (Every 2-3 Lessons)
 Provide a structured mini-review:
