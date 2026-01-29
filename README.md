@@ -26,6 +26,9 @@ Working with lists and dictionaries to manage multiple users and their attribute
 ### 4. User Functions (`user_functions.py`)
 Reusable functions for user validation and data formatting.
 
+### 5. Group Assignments (`group_assignments.py`)
+Processes list of users and determines whether they should be added to specific groups based on job title.
+
 ## Goals
 
 - Build practical automation scripts for IAM workflows
